@@ -1,6 +1,7 @@
 import "./twic.module.css";
 import PropTypes from "prop-types";
 import React from "react";
+import style frm "react-style-component"
 
 const getScriptInfo = ( () => {
     const rSplit = /\/\?v1&?/;
